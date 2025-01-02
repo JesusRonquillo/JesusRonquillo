@@ -7,7 +7,7 @@ I'm a self-taught passionate FrontEnd and Backend developer from Peru 🇮🇳
 
 **About me**
 
-- 💼 FrontEnd Engineer freelance
+- 💼 Fullstack Engineer
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
